@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+
+    <string name="Red">Red</string>
+    <string name="Orange">Orange</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Blue">Blue</string>
+    <string name="Green">Green</string>
+    <string name="Indigo">Indigo</string>
+    <string name="Violet">Violet</string>
+    <string name="White">White</string>
+    <string name="Black">Black</string>
+
+    <string name="Welcome">Welcome</string>
+    <string name="ButtonWelcome">Next</string>
+    <string name="Colors">Colores</string>>
+    <string name="Animals">Animales</string>
+    <string name="Fruits">Frutas</string>
+
+    <string name="Cow">Vaca</string>
+    <string name="Bear">Oso</string>
+    <string name="Cat">Gato</string>
+
+</resources>
