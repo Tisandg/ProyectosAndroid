@@ -18,7 +18,8 @@
         <activity android:name=".Colores" />
         <activity android:name=".Animales" />
         <activity android:name=".Menu" />
-        <activity android:name=".Frutas"></activity>
+        <activity android:name=".Frutas" />
+        <activity android:name=".picasso"></activity>
     </application>
 
 </manifest>

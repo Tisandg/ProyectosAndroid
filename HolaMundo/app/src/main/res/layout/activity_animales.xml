@@ -16,11 +16,12 @@
         android:layout_weight="1"
         >
 
-        <ImageView
+        <Button
+            android:id="@+id/btn_vaca"
+            android:background="@drawable/vaca"
+            android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:src="@drawable/focas"
             />
 
         <TextView
@@ -34,18 +35,17 @@
 
     </TableRow>
 
-
-
     <TableRow
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <ImageView
+        <Button
+            android:id="@+id/btn_oso"
+            android:background="@drawable/oso"
+            android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:src="@drawable/elefantes"
             />
 
         <TextView
@@ -56,9 +56,8 @@
             android:textAlignment="center"
             android:gravity="center"
             android:textSize="40dp"/>
+
     </TableRow>
-
-
 
 </TableLayout>
 

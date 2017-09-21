@@ -13,21 +13,12 @@ public class Inicio extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_inicio);
-
-        btn_aMenu = (Button)findViewById(R.id.btn_aMenu);
-        btn_aMenu.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-
-                Intent redireccionMenu = new Intent(Inicio.this,Menu.class);
-                startActivity(redireccionMenu);
-
-            }
-        });
     }
 
-
-
-
+    /*Proceso llamado al dar click en el boton*/
+    public void goToMenu(View view){
+        Intent redireccionMenu = new Intent(Inicio.this,Menu.class);
+        startActivity(redireccionMenu);
+    }
 
 }
