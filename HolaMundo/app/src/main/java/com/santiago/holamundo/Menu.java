@@ -31,10 +31,12 @@ public class Menu extends AppCompatActivity implements View.OnClickListener{
                 Intent redireccionAnimales = new Intent(Menu.this,Animales.class);
                 startActivity(redireccionAnimales);
                 break;
+
             case R.id.btn_colores:
                 Intent redireccionColores = new Intent(Menu.this,Colores.class);
                 startActivity(redireccionColores);
                 break;
+
             case R.id.btn_frutas:
                 Intent redireccionFrutas = new Intent(Menu.this,Frutas.class);
                 startActivity(redireccionFrutas);

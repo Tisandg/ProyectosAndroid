@@ -16,6 +16,6 @@ public class picasso extends AppCompatActivity {
 
         imagen = (ImageView) findViewById(R.id.image_picasso);
 
-        Picasso.with(this).load("https://goo.gl/JS2R4s").into(imagen);
+        Picasso.with(getApplicationContext()).load("https://goo.gl/JS2R4s").into(imagen);
     }
 }
