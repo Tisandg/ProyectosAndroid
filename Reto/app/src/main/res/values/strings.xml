@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">RetosAndroid</string>
+    <string name="porDefectoCiudad">Seleccione una ciudad</string>
+    <string name="hint_defecto">Pelicula...</string>
+
+    <array name="listaPaises">
+        <item>Colombia</item>
+        <item>Argentina</item>
+        <item>Peru</item>
+        <item>Brazil</item>
+        <item>Ecuador</item>
+        <item>Venezuela</item>
+        <item>Canada</item>
+        <item>Chile</item>
+        <item>Panama</item>
+        <item>Mexico</item>
+    </array>
+
+    <array name="ciudadesCol">
+        <item>Seleccione una ciudad</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Popayan</item>
+    </array>
+
+    <array name="ciudadesArg">
+        <item>Seleccione una ciudad</item>
+        <item>Buenos Aires</item>
+        <item>La plata</item>
+        <item>Rosario</item>
+    </array>
+
+    <array name="ciudadesPer">
+        <item>Seleccione una ciudad</item>
+        <item>Cuzco</item>
+        <item>Lima</item>
+        <item>Arequipa</item>
+    </array>
+
+    <array name="ciudadesBra">
+        <item>Seleccione una ciudad</item>
+        <item>Rio de janeiro</item>
+        <item>Sao Paulo</item>
+        <item>Belo Horizonte</item>
+    </array>
+
+    <array name="ciudadesEcu">
+        <item>Seleccione una ciudad</item>
+        <item>Quito</item>
+        <item>Guayaquil</item>
+        <item>Cuenca</item>
+    </array>
+
+    <array name="ciudadesVen">
+        <item>Seleccione una ciudad</item>
+        <item>Caracas</item>
+        <item>Maracaibo</item>
+        <item>Valencia</item>
+    </array>
+    <array name="ciudadesCan">
+        <item>Seleccione una ciudad</item>
+        <item>Canada</item>
+        <item>Vancouver</item>
+        <item>Montreal</item>
+    </array>
+    <array name="ciudadesChi">
+        <item>Seleccione una ciudad</item>
+        <item>Santiago de Chile</item>
+        <item>Valparaiso</item>
+        <item>Concepcion</item>
+    </array>
+    <array name="ciudadesPan">
+        <item>Seleccione una ciudad</item>
+        <item>Panama</item>
+        <item>Colón</item>
+        <item>David</item>
+    </array>
+    <array name="ciudadesMex">
+        <item>Seleccione una ciudad</item>
+        <item>Ciudad de Mexico</item>
+        <item>Monterrey</item>
+        <item>Guadalajara</item>
+    </array>
+
+</resources>

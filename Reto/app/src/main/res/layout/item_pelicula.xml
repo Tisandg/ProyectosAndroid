@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_pelicula"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imagen"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_weight="2"
+        />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aqui va el titulo"
+            />
+        <TextView
+            android:id="@+id/descripcion"
+            android:layout_below="@+id/titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Descripcion"
+            />
+        <TextView
+            android:id="@+id/anio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/descripcion"
+            android:textColor="@color/colorAccent"
+            android:text="Aqui va el anio"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>
