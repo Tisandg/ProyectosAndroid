@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RetosVistas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Quien subiera tan alto como la luna para ver las estrellas...</string>
+    <string name="campeon">Campeon</string>
+    <string name="subcampeon">Subcampeon</string>
+    <string name="tercero">Tercer lugar</string>
+    <string name="title_activity_drawer_layout">DrawerLayoutActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="sigIn">Crear cuenta</string>
+    <string name="texto_redireccion_registro">No tienes cuenta?. Registrate aqui</string>
+    <string name="log_out">Cerrar sesion</string>
+
+</resources>

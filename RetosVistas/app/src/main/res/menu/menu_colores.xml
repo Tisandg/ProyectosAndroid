@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rojo"
+        android:icon="@android:drawable/arrow_down_float"
+        android:title="rojo"></item>
+    <item
+        android:id="@+id/azul"
+        android:icon="@android:drawable/arrow_down_float"
+        android:title="azul"></item>
+    <item
+        android:title="submenu">
+        <menu>
+            <item
+                android:id="@+id/amarillo"
+                android:icon="@android:drawable/alert_light_frame"
+                android:title="amarillo"></item>
+            <item
+                android:id="@+id/verde"
+                android:icon="@android:drawable/btn_dialog"
+                android:title="verde"></item>
+        </menu>
+    </item>
+</menu>

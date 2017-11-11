@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Titulo">20sp</dimen>
+    <dimen name="Subtitulo">15sp</dimen>
+    <dimen name="tamImagen">320dp</dimen>
+</resources>
